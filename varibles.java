@@ -6,7 +6,7 @@ public class varibles {
         int x, y;
         Scanner sc = new Scanner(System.in);
         System.out.print("enter no.1 : ");
-        x=sc.nextInt();
+        System.out.print("enter no.2 : ");
         x=sc.nextInt();
         System.out.println(x);
 //        x=sc.nextInt();
