@@ -8,6 +8,7 @@ public class varibles {
         System.out.print("enter no.1 : ");
         System.out.print("enter no.2 : ");
         System.out.print("enter no.3 : ");
+        System.out.print("enter no.4 : ");
         x=sc.nextInt();
         System.out.println(x);
 //        x=sc.nextInt();
