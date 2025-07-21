@@ -10,7 +10,8 @@ public class varibles {
         System.out.print("enter no.3 : ");
         System.out.print("enter no.4 : ");
         System.out.print("enter no.5 : ");
-        System.out.print("enter no.6 : "); // for GitHub Testing
+        System.out.print("enter no.6 : "); // for GitHub Testing #1
+        System.out.print("enter no.7 : "); // for GitHub Testing #2
         x=sc.nextInt();
         System.out.println(x);
 //        x=sc.nextInt();
